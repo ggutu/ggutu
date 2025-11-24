@@ -5,11 +5,10 @@
 
 - 👯 I’m looking to collaborate on **DevOps**
 
-- 🤝 I’m looking for help with **Terraform**
 
-- 💬 Ask me about **bb**
+- 💬 Ask me about **Educations**
 
-- 📫 How to reach me **gizachoo@gmail.com**
+- 📫 How to reach me **gizachewgutu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
