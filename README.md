@@ -21,7 +21,7 @@
 
 ## Connect with Me
 
-* LinkedIn: https://linkedin.com/in/your-profile
+* LinkedIn: http://www.linkedin.com/in/ggutu
 * GitHub: https://github.com/ggutu
 
 ## Languages and Tools
