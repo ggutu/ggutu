@@ -1,20 +1,69 @@
-<h1 align="center">Hi 👋, I'm Gizachew</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+# Hi 👋, I'm Gizachew Gutu
 
-- 🔭 I’m currently working on [Three tie architecture containerized application](https://www.udemy.com/courses/search/?src=ukw&q=create+profile+using+github+as+Devops++engineer)
+### DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | AI Agents
 
-- 👯 I’m looking to collaborate on **DevOps**
+🔭 I'm currently working on Three-Tier Containerized Applications, CI/CD Pipelines, and Cloud Infrastructure Automation
 
+👯 I'm looking to collaborate on DevOps, Cloud, Infrastructure as Code (IaC), and AI Agent Projects
 
-- 💬 Ask me about **Educations**
+💬 Ask me about AWS, Docker, Kubernetes, Jenkins, Terraform, Linux, CI/CD, and AI Agents
 
-- 📫 How to reach me **gizachewgutu@gmail.com**
+📫 How to reach me: [gizachewgutu@gmail.com](mailto:gizachewgutu@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+⚡ Highlights
 
-<h3 align="left">Languages and Tools:</h3>
+* Built end-to-end CI/CD pipelines using Jenkins, Maven, SonarQube, Checkstyle, and Nexus
+* Provisioned AWS infrastructure using Terraform
+* Deployed and managed containerized applications using Docker and Kubernetes
+* Implemented monitoring and logging with Prometheus, Grafana, Elasticsearch, and Kibana
+* Developed AI Agent projects for automation and operational workflows
+* 6+ years of professional experience with a strong background in problem-solving and technology
+
+## Connect with Me
+
+* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/ggutu
+
+## Languages and Tools
+
+### Cloud & DevOps
+
+AWS • Terraform • Docker • Kubernetes • Jenkins • Git • GitHub • Maven • SonarQube • Nexus • Ansible
+
+### Monitoring & Logging
+
+Prometheus • Grafana • Elasticsearch • Kibana • CloudWatch
+
+### Programming & Scripting
+
+Python • Bash • Java
+
+### Databases
+
+MySQL • PostgreSQL • Redis
+
+### Web Technologies
+
+Nginx • Flask • Node.js
+
+### AI & Automation
+
+AI Agents • OpenAI API • Python Automation • Workflow Automation
+
+## Featured Projects
+
+🚀 VProfile Lift & Shift Migration on AWS
+
+🐳 Three-Tier Containerized Application (Docker & Docker Compose)
+
+⚙️ Jenkins CI/CD Pipeline with SonarQube and Nexus
+
+☸️ Kubernetes Application Deployment Platform
+
+🏗️ AWS Infrastructure Provisioning with Terraform
+
+🤖 AI Agent for Infrastructure and Workflow Automation
+
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>      <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>      <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>                    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>   
   
