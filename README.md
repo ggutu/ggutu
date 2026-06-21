@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="http://www.linkedin.com/in/ggutu">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gizachewa%20Gutu-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
