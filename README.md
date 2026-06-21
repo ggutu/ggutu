@@ -5,36 +5,35 @@
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from the USA. I work in an IT consultancy company </h3>
-
 <p align="center">
-  <a href="https://github.com/ggutu">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" />
+  <a href="https://github.com/ggutu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ggutu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gizachewa%20Gutu-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
-  <a href="http://www.linkedin.com/in/ggutu">
-    <img src="https://img.shields.io/badge/LinkedIn-Gizachewa%20Gutu-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+- 👨‍💻 All of my projects are available at [https://github.com/ggutu](https://github.com/ggutu) 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
-
+- 💬 Ask me about **DevOps & Cloud DevOps** 
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ggutu" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="mailto:gizachew.gutu@yahoo.com">
+    📧 gizachew.gutu@yahoo.com
+  </a>
+</p>
 ---
 
 <h3 align="left">Languages and Tools:</h3>
