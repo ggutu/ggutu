@@ -7,12 +7,10 @@
 <h3 align="center">A passionate DevOps Engineer from the USA. I work in an IT consultancy company </h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  <a href="https://github.com/ggutu">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
+</p>
   <a href="http://www.linkedin.com/in/ggutu">
     <img src="https://img.shields.io/badge/LinkedIn-Gizachewa%20Gutu-blue?logo=linkedin&style=flat-square" />
   </a>
