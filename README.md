@@ -77,10 +77,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="SonarQube" width="40" height="40"/>
 
   <!-- Project Management -->
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
 </p>
-==
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
